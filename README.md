@@ -6,5 +6,5 @@ I’m @hulkavinci and this is my alt-account where I do all my crypto related wo
   - software engineer (background in 3d modelling and ai)
   - privacy zealot (dislike all those three letter agencies)
   - working on a haskell-based geometric kernell that could run on a distributed network (cardano)
-  - you can reach me on twitter @hulkavinci on mastodon at hulkavinci@qoto.org
+  - you can reach me on twitter [@hulkavinci](https://twitter.com/hulkavinci) on mastodon @hulkavinci@qoto.org
 
