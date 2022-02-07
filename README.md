@@ -5,6 +5,6 @@ I’m @hulkavinci and this is my alt-account.
   - privacy zealot (dislike all those three letter agencies)
   - you can reach me 
     -  on twitter [@hulkavinci](https://twitter.com/hulkavinci) 
-    -  on mastodon @hulkavinci@qoto.org
-    -  on instragram @hulkavinci
+    -  on mastodon [@hulkavinci@qoto.org](https://qoto.org/@hulkavinci)
+    -  on instragram [@hulkavinci](https://www.instagram.com/hulkavinci/)
 
